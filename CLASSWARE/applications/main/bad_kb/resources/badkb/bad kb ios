@@ -1,0 +1,10 @@
+REM made by dante
+REM
+
+GUI h
+DELAY 400
+GUI space
+DELAY 400
+STRING https://github.com/Flipper-XFW/Xtreme-Firmware
+DELAY 60
+ENTER
